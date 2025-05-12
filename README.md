@@ -3,7 +3,7 @@
 
 - 🌱 Estou estudando **Ciência da Computação e aprofundando em SQL**
 
-- 💬 Me pergunte sobre **C e SQL**
+- 💬 Me pergunte sobre **C, JAVA e  SQL**
 
 - 📫 Você me acha através do e-mail **guimaraesslucas15@gmail.com**
 
